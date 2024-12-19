@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#bc95c6",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "微信小程序养老院系统首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

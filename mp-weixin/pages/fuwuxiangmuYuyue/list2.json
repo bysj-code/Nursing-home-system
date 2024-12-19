@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#bc95c6",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的服务项目预约",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

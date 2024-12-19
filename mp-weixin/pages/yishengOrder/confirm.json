@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "订单确认",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
